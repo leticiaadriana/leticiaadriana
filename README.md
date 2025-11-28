@@ -13,7 +13,7 @@
 <p align="left">- I love the WEB and design worlds, currently like to create projects a figma and bringing them to life through programming!<br><br>
 - Currently doing a Undergraduate Research, contributing to the development of ’VivaVox’, a web application for Augmentative Alternative Communication (AAC) to help kids with Cerebral Palsy (CP), by fixing bugs, developing new functionalities and tools. <br><br>
 - Appreciate Low-level programming, currently create some projects in Quartus with VHDL.<br><br>
-- I enjoy painting, drawing, crocheting, cooking, listening to music (especially Twenty One Pilots). Also, I love study math/computer science and hangout with my friends!</p>
+- I enjoy painting, drawing, crocheting, cooking, listening to music (especially Twenty One Pilots).</p>
 
 ###
 
